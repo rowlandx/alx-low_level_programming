@@ -1,14 +1,11 @@
-#include "main.h"
+#include "main.c"
 
 /**
- * print_alphabet - print alphabets
+ * main - check the code
  *
- * Description: print_alphabet use to print a to z
- *
- * Return: return void
- *
+ * Return: Always 0.
  */
-void print_alphabet(void)
+int main(void)
 {
 	char i = 'a';
 
